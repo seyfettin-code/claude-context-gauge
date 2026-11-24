@@ -1,0 +1,6 @@
+{
+  "name": "claude-context-gauge",
+  "description": "A Claude Code mod that shows how full the context window is after every request.",
+  "owner": { "name": "seyfettin-code" },
+  "plugins": [{ "name": "baglam-gostergesi", "source": "./" }]
+}

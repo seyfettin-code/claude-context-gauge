@@ -1,0 +1,6 @@
+{
+  "name": "baglam-gostergesi",
+  "version": "0.1.0",
+  "description": "Her istekten sonra bağlam penceresinin ne kadar dolduğunu istem kutusunun üstünde gösterir.",
+  "types": "./types/index.d.ts"
+}
